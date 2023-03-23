@@ -39,7 +39,7 @@ Basic freight
 Final Amount
 ```
 ---
-## 💹 _Analysis_<br>
+## 💹 _Analysis_<br> :green_circle: 	:small_blue_diamond:
 ▶️Q. What is the total Profit Earned till date?<br> 
 🟢 Totel Profit earned till date is $264,193.
 
