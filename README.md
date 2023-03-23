@@ -9,19 +9,20 @@ Customer Type : Is it a New Customer or Retained Customer
 Destination : 4 territories in canada Northern,Western,Maritime & Prairie
 Rate : Total Sales
 
-Truck Expenses
+Truck Expenses -------------------------------------------------
 Truck : 4 Type of Truck Used	
 Insurance : Insurance Cost of Truck
 Fuel : Fuel Cost of Truck
 Diesel Exhaust Fluid : Diesel Exhaust Fluid Cost of Truck
 Advance	: Advance Cost of Truck
 
-Freight Expenses
+Freight Expenses -------------------------------------------------
 Warehouse : Cost of the Warehouse
 Repairs	: Repairing Charging
 Tolls : Toll tax
 Fundings : The Cost of Goods being transported
 
+Driver Info -------------------------------------------------
 Driver Name : Name of the Driver
 Odometer : Measuring distance
 Miles : Distance traveled by Driver
