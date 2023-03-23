@@ -9,14 +9,14 @@ Customer Type : Is it a New Customer or Retained Customer
 Destination : 4 territories in canada Northern,Western,Maritime & Prairie
 Rate : Total Sales
 
-Truck Expenses
+:small_blue_diamond: Truck Expenses
 Truck : 4 Type of Truck Used	
 Insurance : Insurance Cost of Truck
 Fuel : Fuel Cost of Truck
 Diesel Exhaust Fluid : Diesel Exhaust Fluid Cost of Truck
 Advance	: Advance Cost of Truck
 
-Freight Expenses
+:small_blue_diamond: Freight Expenses
 Warehouse : Cost of the Warehouse
 Repairs	: Repairing Charging
 Tolls : Toll tax
@@ -31,7 +31,7 @@ Extra Pay : Additional Pay to Driver
 Costs Driver Paid : Cost which driver Paid
 Total Expenses	: Total Expenses of the Driver
 
-Shipment Cost settlement -- The direct costs associated with moving an item from a shelf in a shop or warehouse to the customer's doorstep
+:small_blue_diamond: Shipment Cost settlement -- The direct costs associated with moving an item from a shelf in a shop or warehouse to the customer's doorstep
 First condition type 
 Shipment cost sub-items	
 ERE Stage	
@@ -39,7 +39,7 @@ Basic freight
 Final Amount
 ```
 ---
-💹 Analysis<br>
+## 💹 _Analysis_<br>
 ▶️Q. What is the total Profit Earned till date?<br> 
 🟢 Totel Profit earned till date is $264,193.
 
