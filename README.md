@@ -3,6 +3,7 @@
 ## Overview
 ![Supply Chain and Freight Dashboard img](https://user-images.githubusercontent.com/88017168/227616165-04cf1121-e54f-4f75-a850-06960287fea6.png)
 
+This dashboard in Excel specifically focuses on monitoring the movement of goods and materials in 4 territories of Canada _(Northern, Western, Maritime & Prairie)._
 ```
 Month : Name of Months
 Day : Days
